@@ -1,0 +1,658 @@
+07 Apr 2021 23:00:32,516 INFO  repository.DB.AngajatDBRepository 25 <init> - Initializing AngajatDBRepository with properties: {} 
+07 Apr 2021 23:00:32,520 INFO  repository.DB.ParticipantDBRepository 26 <init> - Initializing ParticipantDBRepository with properties: {} 
+07 Apr 2021 23:00:32,521 INFO  repository.DB.CursaDBRepository 26 <init> - Initializing CursaDBRepository with properties: {} 
+07 Apr 2021 23:00:32,522 INFO  repository.DB.InscriereDBRepository 29 <init> - Initializing InscriereDBRepository with properties: {} 
+07 Apr 2021 23:00:35,668 TRACE repository.DB.AngajatDBRepository 118 findAll - Enter
+07 Apr 2021 23:00:35,668 TRACE repository.JdbcUtils 47 getConnection - Enter
+07 Apr 2021 23:00:35,669 TRACE repository.JdbcUtils 24 getNewConnection - Enter
+07 Apr 2021 23:00:35,669 INFO  repository.JdbcUtils 29 getNewConnection - trying to connect to database ... null
+07 Apr 2021 23:00:35,670 INFO  repository.JdbcUtils 30 getNewConnection - user: null
+07 Apr 2021 23:00:35,670 INFO  repository.JdbcUtils 31 getNewConnection - pass: null
+07 Apr 2021 23:00:35,673 ERROR repository.JdbcUtils 40 getNewConnection - java.sql.SQLException: The url cannot be null
+07 Apr 2021 23:00:35,674 TRACE repository.JdbcUtils 56 getConnection - Exit
+07 Apr 2021 23:00:53,993 INFO  repository.DB.AngajatDBRepository 25 <init> - Initializing AngajatDBRepository with properties: {} 
+07 Apr 2021 23:00:53,997 INFO  repository.DB.ParticipantDBRepository 26 <init> - Initializing ParticipantDBRepository with properties: {} 
+07 Apr 2021 23:00:53,998 INFO  repository.DB.CursaDBRepository 26 <init> - Initializing CursaDBRepository with properties: {} 
+07 Apr 2021 23:00:53,998 INFO  repository.DB.InscriereDBRepository 29 <init> - Initializing InscriereDBRepository with properties: {} 
+07 Apr 2021 23:00:56,799 TRACE repository.DB.AngajatDBRepository 118 findAll - Enter
+07 Apr 2021 23:00:56,799 TRACE repository.JdbcUtils 47 getConnection - Enter
+07 Apr 2021 23:00:56,799 TRACE repository.JdbcUtils 24 getNewConnection - Enter
+07 Apr 2021 23:00:56,800 INFO  repository.JdbcUtils 29 getNewConnection - trying to connect to database ... null
+07 Apr 2021 23:00:56,800 INFO  repository.JdbcUtils 30 getNewConnection - user: null
+07 Apr 2021 23:00:56,800 INFO  repository.JdbcUtils 31 getNewConnection - pass: null
+07 Apr 2021 23:00:56,803 ERROR repository.JdbcUtils 40 getNewConnection - java.sql.SQLException: The url cannot be null
+07 Apr 2021 23:00:56,804 TRACE repository.JdbcUtils 56 getConnection - Exit
+07 Apr 2021 23:02:32,485 INFO  repository.DB.AngajatDBRepository 25 <init> - Initializing AngajatDBRepository with properties: {} 
+07 Apr 2021 23:02:32,489 INFO  repository.DB.ParticipantDBRepository 26 <init> - Initializing ParticipantDBRepository with properties: {} 
+07 Apr 2021 23:02:32,490 INFO  repository.DB.CursaDBRepository 26 <init> - Initializing CursaDBRepository with properties: {} 
+07 Apr 2021 23:02:32,490 INFO  repository.DB.InscriereDBRepository 29 <init> - Initializing InscriereDBRepository with properties: {} 
+07 Apr 2021 23:02:36,045 TRACE repository.DB.AngajatDBRepository 118 findAll - Enter
+07 Apr 2021 23:02:36,045 TRACE repository.JdbcUtils 48 getConnection - Enter
+07 Apr 2021 23:02:36,046 TRACE repository.JdbcUtils 24 getNewConnection - Enter
+07 Apr 2021 23:02:36,046 INFO  repository.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+07 Apr 2021 23:02:36,046 INFO  repository.JdbcUtils 31 getNewConnection - user: null
+07 Apr 2021 23:02:36,047 INFO  repository.JdbcUtils 32 getNewConnection - pass: null
+07 Apr 2021 23:02:36,051 ERROR repository.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+07 Apr 2021 23:02:36,053 TRACE repository.JdbcUtils 57 getConnection - Exit
+07 Apr 2021 23:04:09,837 INFO  repository.DB.AngajatDBRepository 25 <init> - Initializing AngajatDBRepository with properties: {} 
+07 Apr 2021 23:04:09,841 INFO  repository.DB.ParticipantDBRepository 26 <init> - Initializing ParticipantDBRepository with properties: {} 
+07 Apr 2021 23:04:09,841 INFO  repository.DB.CursaDBRepository 26 <init> - Initializing CursaDBRepository with properties: {} 
+07 Apr 2021 23:04:09,843 INFO  repository.DB.InscriereDBRepository 29 <init> - Initializing InscriereDBRepository with properties: {} 
+07 Apr 2021 23:04:39,433 INFO  repository.DB.AngajatDBRepository 25 <init> - Initializing AngajatDBRepository with properties: {} 
+07 Apr 2021 23:04:39,437 INFO  repository.DB.ParticipantDBRepository 26 <init> - Initializing ParticipantDBRepository with properties: {} 
+07 Apr 2021 23:04:39,439 INFO  repository.DB.CursaDBRepository 26 <init> - Initializing CursaDBRepository with properties: {} 
+07 Apr 2021 23:04:39,440 INFO  repository.DB.InscriereDBRepository 29 <init> - Initializing InscriereDBRepository with properties: {} 
+07 Apr 2021 23:04:42,668 TRACE repository.DB.AngajatDBRepository 118 findAll - Enter
+07 Apr 2021 23:04:42,669 TRACE repository.JdbcUtils 42 getConnection - Enter
+07 Apr 2021 23:04:42,669 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+07 Apr 2021 23:04:42,669 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database null
+07 Apr 2021 23:04:42,670 INFO  repository.JdbcUtils 26 getNewConnection - user: null
+07 Apr 2021 23:04:42,670 INFO  repository.JdbcUtils 27 getNewConnection - pass: null
+07 Apr 2021 23:04:42,673 ERROR repository.JdbcUtils 35 getNewConnection - java.sql.SQLException: The url cannot be null
+07 Apr 2021 23:04:42,674 TRACE repository.JdbcUtils 51 getConnection - Exit
+07 Apr 2021 23:04:59,628 INFO  repository.DB.AngajatDBRepository 25 <init> - Initializing AngajatDBRepository with properties: {} 
+07 Apr 2021 23:04:59,632 INFO  repository.DB.ParticipantDBRepository 26 <init> - Initializing ParticipantDBRepository with properties: {} 
+07 Apr 2021 23:04:59,633 INFO  repository.DB.CursaDBRepository 26 <init> - Initializing CursaDBRepository with properties: {} 
+07 Apr 2021 23:04:59,634 INFO  repository.DB.InscriereDBRepository 29 <init> - Initializing InscriereDBRepository with properties: {} 
+07 Apr 2021 23:05:03,124 TRACE repository.DB.AngajatDBRepository 118 findAll - Enter
+07 Apr 2021 23:05:03,124 TRACE repository.JdbcUtils 42 getConnection - Enter
+07 Apr 2021 23:05:03,124 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+07 Apr 2021 23:05:03,124 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database null
+07 Apr 2021 23:05:03,125 INFO  repository.JdbcUtils 26 getNewConnection - user: null
+07 Apr 2021 23:05:03,125 INFO  repository.JdbcUtils 27 getNewConnection - pass: null
+07 Apr 2021 23:05:03,127 ERROR repository.JdbcUtils 35 getNewConnection - java.sql.SQLException: The url cannot be null
+07 Apr 2021 23:05:03,128 TRACE repository.JdbcUtils 51 getConnection - Exit
+07 Apr 2021 23:06:45,653 INFO  repository.DB.AngajatDBRepository 25 <init> - Initializing AngajatDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+07 Apr 2021 23:06:45,657 INFO  repository.DB.ParticipantDBRepository 26 <init> - Initializing ParticipantDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+07 Apr 2021 23:06:45,658 INFO  repository.DB.CursaDBRepository 26 <init> - Initializing CursaDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+07 Apr 2021 23:06:45,659 INFO  repository.DB.InscriereDBRepository 29 <init> - Initializing InscriereDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+07 Apr 2021 23:06:47,221 TRACE repository.DB.AngajatDBRepository 118 findAll - Enter
+07 Apr 2021 23:06:47,222 TRACE repository.JdbcUtils 42 getConnection - Enter
+07 Apr 2021 23:06:47,222 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+07 Apr 2021 23:06:47,222 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+07 Apr 2021 23:06:47,222 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+07 Apr 2021 23:06:47,222 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+07 Apr 2021 23:06:47,969 TRACE repository.JdbcUtils 51 getConnection - Exit
+07 Apr 2021 23:06:47,972 TRACE repository.DB.AngajatDBRepository 136 findAll - Exit
+07 Apr 2021 23:06:53,929 TRACE repository.DB.AngajatDBRepository 118 findAll - Enter
+07 Apr 2021 23:06:53,930 TRACE repository.JdbcUtils 42 getConnection - Enter
+07 Apr 2021 23:06:53,930 TRACE repository.JdbcUtils 51 getConnection - Exit
+07 Apr 2021 23:06:53,930 TRACE repository.DB.AngajatDBRepository 136 findAll - Exit
+07 Apr 2021 23:09:09,156 INFO  repository.DB.AngajatDBRepository 25 <init> - Initializing AngajatDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+07 Apr 2021 23:09:09,160 INFO  repository.DB.ParticipantDBRepository 26 <init> - Initializing ParticipantDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+07 Apr 2021 23:09:09,161 INFO  repository.DB.CursaDBRepository 26 <init> - Initializing CursaDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+07 Apr 2021 23:09:09,161 INFO  repository.DB.InscriereDBRepository 29 <init> - Initializing InscriereDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+07 Apr 2021 23:09:15,228 TRACE repository.DB.AngajatDBRepository 118 findAll - Enter
+07 Apr 2021 23:09:15,229 TRACE repository.JdbcUtils 42 getConnection - Enter
+07 Apr 2021 23:09:15,229 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+07 Apr 2021 23:09:15,229 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+07 Apr 2021 23:09:15,229 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+07 Apr 2021 23:09:15,229 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+07 Apr 2021 23:09:15,610 TRACE repository.JdbcUtils 51 getConnection - Exit
+07 Apr 2021 23:09:15,614 TRACE repository.DB.AngajatDBRepository 136 findAll - Exit
+07 Apr 2021 23:13:38,764 INFO  repository.DB.AngajatDBRepository 25 <init> - Initializing AngajatDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+07 Apr 2021 23:13:38,768 INFO  repository.DB.ParticipantDBRepository 26 <init> - Initializing ParticipantDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+07 Apr 2021 23:13:38,769 INFO  repository.DB.CursaDBRepository 26 <init> - Initializing CursaDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+07 Apr 2021 23:13:38,770 INFO  repository.DB.InscriereDBRepository 29 <init> - Initializing InscriereDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+07 Apr 2021 23:13:48,662 TRACE repository.DB.AngajatDBRepository 118 findAll - Enter
+07 Apr 2021 23:13:48,662 TRACE repository.JdbcUtils 42 getConnection - Enter
+07 Apr 2021 23:13:48,662 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+07 Apr 2021 23:13:48,663 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+07 Apr 2021 23:13:48,663 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+07 Apr 2021 23:13:48,663 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+07 Apr 2021 23:13:49,042 TRACE repository.JdbcUtils 51 getConnection - Exit
+07 Apr 2021 23:13:49,044 TRACE repository.DB.AngajatDBRepository 136 findAll - Exit
+08 Apr 2021 13:20:12,106 INFO  repository.DB.AngajatDBRepository 25 <init> - Initializing AngajatDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+08 Apr 2021 13:20:12,112 INFO  repository.DB.ParticipantDBRepository 26 <init> - Initializing ParticipantDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+08 Apr 2021 13:20:12,115 INFO  repository.DB.CursaDBRepository 26 <init> - Initializing CursaDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+08 Apr 2021 13:20:12,117 INFO  repository.DB.InscriereDBRepository 29 <init> - Initializing InscriereDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+08 Apr 2021 13:20:15,868 TRACE repository.DB.AngajatDBRepository 118 findAll - Enter
+08 Apr 2021 13:20:15,868 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:20:15,868 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+08 Apr 2021 13:20:15,869 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+08 Apr 2021 13:20:15,869 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+08 Apr 2021 13:20:15,870 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+08 Apr 2021 13:20:16,448 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:20:16,452 TRACE repository.DB.AngajatDBRepository 136 findAll - Exit
+08 Apr 2021 13:22:15,494 INFO  repository.DB.AngajatDBRepository 25 <init> - Initializing AngajatDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+08 Apr 2021 13:22:15,507 INFO  repository.DB.ParticipantDBRepository 26 <init> - Initializing ParticipantDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+08 Apr 2021 13:22:15,508 INFO  repository.DB.CursaDBRepository 26 <init> - Initializing CursaDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+08 Apr 2021 13:22:15,509 INFO  repository.DB.InscriereDBRepository 29 <init> - Initializing InscriereDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+08 Apr 2021 13:22:24,312 TRACE repository.DB.AngajatDBRepository 118 findAll - Enter
+08 Apr 2021 13:22:24,312 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:24,313 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+08 Apr 2021 13:22:24,313 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+08 Apr 2021 13:22:24,313 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+08 Apr 2021 13:22:24,314 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+08 Apr 2021 13:22:24,719 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:24,722 TRACE repository.DB.AngajatDBRepository 136 findAll - Exit
+08 Apr 2021 13:22:24,777 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:22:24,778 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:24,778 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+08 Apr 2021 13:22:24,778 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+08 Apr 2021 13:22:24,778 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+08 Apr 2021 13:22:24,779 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+08 Apr 2021 13:22:24,780 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:24,780 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:22:24,782 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:22:24,782 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:24,782 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:24,783 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:22:24,783 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:22:24,783 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:24,784 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+08 Apr 2021 13:22:24,784 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+08 Apr 2021 13:22:24,784 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+08 Apr 2021 13:22:24,784 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+08 Apr 2021 13:22:24,785 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:24,787 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:22:34,345 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:22:34,346 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:34,346 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:34,347 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:22:34,347 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:22:34,348 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:34,348 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:34,348 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:22:34,349 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:22:34,350 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:34,350 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:34,350 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:22:34,351 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:22:34,351 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:34,351 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:34,352 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:22:34,354 TRACE repository.DB.InscriereDBRepository 40 save - Enter saving inscrieremodel.Inscriere@995ecd4
+08 Apr 2021 13:22:34,354 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:34,354 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+08 Apr 2021 13:22:34,354 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+08 Apr 2021 13:22:34,355 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+08 Apr 2021 13:22:34,355 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+08 Apr 2021 13:22:34,357 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:34,360 ERROR repository.DB.InscriereDBRepository 50 save - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (table Inscrieri has no column named idCursa)
+08 Apr 2021 13:22:34,361 TRACE repository.DB.InscriereDBRepository 53 save - Exit
+08 Apr 2021 13:22:34,361 TRACE repository.DB.CursaDBRepository 78 update - Enter updating cursa model.Cursa@2de8835a 
+08 Apr 2021 13:22:34,361 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:34,362 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:34,378 TRACE repository.DB.CursaDBRepository 84 update - Updated 1 instances
+08 Apr 2021 13:22:34,379 TRACE repository.DB.CursaDBRepository 90 update - Exit
+08 Apr 2021 13:22:34,379 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:22:34,379 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:34,379 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:34,380 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:22:43,835 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:22:43,835 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:43,836 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:43,836 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:22:43,836 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:22:43,837 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:43,837 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:43,837 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:22:43,837 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:22:43,837 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:43,837 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:43,837 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:22:43,838 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:22:43,838 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:43,838 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:43,838 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:22:43,838 TRACE repository.DB.InscriereDBRepository 40 save - Enter saving inscrieremodel.Inscriere@391af39e
+08 Apr 2021 13:22:43,838 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:43,839 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:43,839 ERROR repository.DB.InscriereDBRepository 50 save - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (table Inscrieri has no column named idCursa)
+08 Apr 2021 13:22:43,840 TRACE repository.DB.InscriereDBRepository 53 save - Exit
+08 Apr 2021 13:22:43,840 TRACE repository.DB.CursaDBRepository 78 update - Enter updating cursa model.Cursa@1dec9ccc 
+08 Apr 2021 13:22:43,840 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:43,840 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:43,853 TRACE repository.DB.CursaDBRepository 84 update - Updated 1 instances
+08 Apr 2021 13:22:43,853 TRACE repository.DB.CursaDBRepository 90 update - Exit
+08 Apr 2021 13:22:43,853 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:22:43,853 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:43,853 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:43,854 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:22:56,462 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:22:56,462 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:56,462 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:56,463 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:22:56,463 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:22:56,463 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:56,463 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:56,463 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:22:56,464 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:22:56,464 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:56,464 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:56,464 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:22:56,464 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:22:56,464 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:56,465 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:56,465 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:22:56,465 TRACE repository.DB.InscriereDBRepository 40 save - Enter saving inscrieremodel.Inscriere@3f22ac6c
+08 Apr 2021 13:22:56,465 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:56,466 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:56,466 ERROR repository.DB.InscriereDBRepository 50 save - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (table Inscrieri has no column named idCursa)
+08 Apr 2021 13:22:56,466 TRACE repository.DB.InscriereDBRepository 53 save - Exit
+08 Apr 2021 13:22:56,467 TRACE repository.DB.CursaDBRepository 78 update - Enter updating cursa model.Cursa@76eddf75 
+08 Apr 2021 13:22:56,467 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:56,467 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:56,479 TRACE repository.DB.CursaDBRepository 84 update - Updated 1 instances
+08 Apr 2021 13:22:56,479 TRACE repository.DB.CursaDBRepository 90 update - Exit
+08 Apr 2021 13:22:56,479 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:22:56,479 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:22:56,479 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:22:56,480 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:23:04,624 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:23:04,624 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:04,624 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:04,625 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:23:06,325 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:23:06,325 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:06,326 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:06,326 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:23:09,267 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:23:09,267 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:09,267 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:09,268 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:23:11,894 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:23:11,894 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:11,894 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:11,894 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:23:14,302 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:23:14,303 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:14,303 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:14,304 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:23:25,885 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:23:25,885 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:25,885 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:25,886 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:23:25,886 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:23:25,886 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:25,886 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:25,886 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:23:25,886 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:23:25,887 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:25,887 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:25,887 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:23:25,887 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:23:25,887 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:25,888 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:25,888 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:23:25,888 TRACE repository.DB.InscriereDBRepository 40 save - Enter saving inscrieremodel.Inscriere@676d27f0
+08 Apr 2021 13:23:25,888 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:25,888 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:25,888 ERROR repository.DB.InscriereDBRepository 50 save - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (table Inscrieri has no column named idCursa)
+08 Apr 2021 13:23:25,889 TRACE repository.DB.InscriereDBRepository 53 save - Exit
+08 Apr 2021 13:23:25,889 TRACE repository.DB.CursaDBRepository 78 update - Enter updating cursa model.Cursa@1376df23 
+08 Apr 2021 13:23:25,889 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:25,889 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:25,895 TRACE repository.DB.CursaDBRepository 84 update - Updated 1 instances
+08 Apr 2021 13:23:25,895 TRACE repository.DB.CursaDBRepository 90 update - Exit
+08 Apr 2021 13:23:25,895 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:23:25,895 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:25,895 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:25,896 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:23:30,047 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:23:30,047 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:30,047 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:30,048 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:23:40,347 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:23:40,347 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:40,348 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:40,348 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:23:40,348 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:23:40,349 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:40,349 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:40,349 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:23:40,349 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:23:40,350 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:40,350 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:40,351 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:23:40,351 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:23:40,351 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:40,351 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:40,352 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:23:40,352 TRACE repository.DB.InscriereDBRepository 40 save - Enter saving inscrieremodel.Inscriere@542c6116
+08 Apr 2021 13:23:40,352 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:40,352 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:40,353 ERROR repository.DB.InscriereDBRepository 50 save - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (table Inscrieri has no column named idCursa)
+08 Apr 2021 13:23:40,353 TRACE repository.DB.InscriereDBRepository 53 save - Exit
+08 Apr 2021 13:23:40,353 TRACE repository.DB.CursaDBRepository 78 update - Enter updating cursa model.Cursa@b3453b6 
+08 Apr 2021 13:23:40,353 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:40,354 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:40,362 TRACE repository.DB.CursaDBRepository 84 update - Updated 1 instances
+08 Apr 2021 13:23:40,363 TRACE repository.DB.CursaDBRepository 90 update - Exit
+08 Apr 2021 13:23:40,363 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:23:40,363 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:40,363 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:40,364 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:23:52,685 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:23:52,685 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:52,685 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:52,685 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:23:52,685 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:23:52,686 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:52,686 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:52,686 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:23:52,686 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:23:52,686 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:52,686 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:52,687 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:23:52,687 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:23:52,687 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:52,687 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:52,688 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:23:52,688 TRACE repository.DB.InscriereDBRepository 40 save - Enter saving inscrieremodel.Inscriere@8d4c366
+08 Apr 2021 13:23:52,688 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:52,688 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:52,689 ERROR repository.DB.InscriereDBRepository 50 save - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (table Inscrieri has no column named idCursa)
+08 Apr 2021 13:23:52,689 TRACE repository.DB.InscriereDBRepository 53 save - Exit
+08 Apr 2021 13:23:52,689 TRACE repository.DB.CursaDBRepository 78 update - Enter updating cursa model.Cursa@705ce22e 
+08 Apr 2021 13:23:52,689 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:52,689 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:52,706 TRACE repository.DB.CursaDBRepository 84 update - Updated 1 instances
+08 Apr 2021 13:23:52,706 TRACE repository.DB.CursaDBRepository 90 update - Exit
+08 Apr 2021 13:23:52,707 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:23:52,707 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:23:52,707 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:23:52,708 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:26:13,582 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:26:13,582 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:26:13,582 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:26:13,583 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:26:13,583 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:26:13,583 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:26:13,583 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:26:13,583 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:26:13,584 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:26:13,584 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:26:13,584 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:26:13,584 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:26:13,584 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:26:13,584 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:26:13,584 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:26:13,585 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:26:13,585 TRACE repository.DB.InscriereDBRepository 40 save - Enter saving inscrieremodel.Inscriere@44f921ca
+08 Apr 2021 13:26:13,585 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:26:13,585 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:26:13,585 ERROR repository.DB.InscriereDBRepository 50 save - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (table Inscrieri has no column named idCursa)
+08 Apr 2021 13:26:13,585 TRACE repository.DB.InscriereDBRepository 53 save - Exit
+08 Apr 2021 13:26:13,586 TRACE repository.DB.CursaDBRepository 78 update - Enter updating cursa model.Cursa@1492624c 
+08 Apr 2021 13:26:13,586 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:26:13,586 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:26:13,600 TRACE repository.DB.CursaDBRepository 84 update - Updated 1 instances
+08 Apr 2021 13:26:13,600 TRACE repository.DB.CursaDBRepository 90 update - Exit
+08 Apr 2021 13:26:13,600 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:26:13,600 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:26:13,600 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:26:13,601 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:29:01,035 INFO  repository.DB.AngajatDBRepository 25 <init> - Initializing AngajatDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+08 Apr 2021 13:29:01,040 INFO  repository.DB.ParticipantDBRepository 26 <init> - Initializing ParticipantDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+08 Apr 2021 13:29:01,041 INFO  repository.DB.CursaDBRepository 26 <init> - Initializing CursaDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+08 Apr 2021 13:29:01,043 INFO  repository.DB.InscriereDBRepository 29 <init> - Initializing InscriereDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+08 Apr 2021 13:29:16,946 TRACE repository.DB.AngajatDBRepository 118 findAll - Enter
+08 Apr 2021 13:29:16,946 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:29:16,947 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+08 Apr 2021 13:29:16,947 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+08 Apr 2021 13:29:16,947 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+08 Apr 2021 13:29:16,948 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+08 Apr 2021 13:29:17,410 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:29:17,413 TRACE repository.DB.AngajatDBRepository 136 findAll - Exit
+08 Apr 2021 13:29:17,494 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:29:17,494 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:29:17,494 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+08 Apr 2021 13:29:17,495 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+08 Apr 2021 13:29:17,495 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+08 Apr 2021 13:29:17,495 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+08 Apr 2021 13:29:17,497 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:29:17,498 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:29:17,499 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:29:17,500 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:29:17,500 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:29:17,500 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:29:17,501 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:29:17,501 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:29:17,501 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+08 Apr 2021 13:29:17,502 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+08 Apr 2021 13:29:17,502 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+08 Apr 2021 13:29:17,503 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+08 Apr 2021 13:29:17,504 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:29:17,506 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:29:29,017 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:29:29,018 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:29:29,018 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:29:29,019 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:29:29,019 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:29:29,019 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:29:29,019 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:29:29,021 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:29:29,023 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:29:29,023 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:29:29,024 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:29:29,024 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:29:29,024 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:29:29,025 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:29:29,025 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:29:29,026 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:29:29,027 TRACE repository.DB.InscriereDBRepository 40 save - Enter saving inscrieremodel.Inscriere@104e3332
+08 Apr 2021 13:29:29,028 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:29:29,028 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+08 Apr 2021 13:29:29,028 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+08 Apr 2021 13:29:29,028 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+08 Apr 2021 13:29:29,029 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+08 Apr 2021 13:29:29,030 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:29:29,049 TRACE repository.DB.InscriereDBRepository 48 save - Saved 1 instances
+08 Apr 2021 13:29:29,050 TRACE repository.DB.InscriereDBRepository 53 save - Exit
+08 Apr 2021 13:29:29,050 TRACE repository.DB.CursaDBRepository 78 update - Enter updating cursa model.Cursa@19afe2ab 
+08 Apr 2021 13:29:29,050 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:29:29,051 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:29:29,058 TRACE repository.DB.CursaDBRepository 84 update - Updated 1 instances
+08 Apr 2021 13:29:29,059 TRACE repository.DB.CursaDBRepository 90 update - Exit
+08 Apr 2021 13:29:29,059 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:29:29,060 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:29:29,060 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:29:29,061 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:29:41,637 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:29:41,637 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:29:41,637 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:29:41,637 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:29:41,638 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:29:41,638 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:29:41,638 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:29:41,638 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:29:41,638 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:29:41,638 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:29:41,638 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:29:41,639 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 13:29:41,639 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 13:29:41,640 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:29:41,640 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:29:41,640 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 13:29:41,641 TRACE repository.DB.InscriereDBRepository 40 save - Enter saving inscrieremodel.Inscriere@6a4a8fd0
+08 Apr 2021 13:29:41,641 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:29:41,641 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:29:41,648 TRACE repository.DB.InscriereDBRepository 48 save - Saved 1 instances
+08 Apr 2021 13:29:41,649 TRACE repository.DB.InscriereDBRepository 53 save - Exit
+08 Apr 2021 13:29:41,649 TRACE repository.DB.CursaDBRepository 78 update - Enter updating cursa model.Cursa@4c694f81 
+08 Apr 2021 13:29:41,649 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:29:41,649 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:29:41,660 TRACE repository.DB.CursaDBRepository 84 update - Updated 1 instances
+08 Apr 2021 13:29:41,660 TRACE repository.DB.CursaDBRepository 90 update - Exit
+08 Apr 2021 13:29:41,660 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 13:29:41,660 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 13:29:41,660 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 13:29:41,661 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 14:06:26,761 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 14:06:26,765 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:06:26,767 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:06:26,785 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 14:06:26,785 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 14:06:26,786 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:06:26,786 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:06:26,787 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 14:06:26,789 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 14:06:26,789 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:06:26,789 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:06:26,790 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 14:06:26,790 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 14:06:26,790 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:06:26,790 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:06:26,793 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 14:06:26,793 TRACE repository.DB.InscriereDBRepository 40 save - Enter saving inscrieremodel.Inscriere@19f8c762
+08 Apr 2021 14:06:26,795 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:06:26,795 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:06:26,814 TRACE repository.DB.InscriereDBRepository 48 save - Saved 1 instances
+08 Apr 2021 14:06:26,816 TRACE repository.DB.InscriereDBRepository 53 save - Exit
+08 Apr 2021 14:06:26,817 TRACE repository.DB.CursaDBRepository 78 update - Enter updating cursa model.Cursa@19c36de7 
+08 Apr 2021 14:06:26,818 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:06:26,818 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:06:26,837 TRACE repository.DB.CursaDBRepository 84 update - Updated 1 instances
+08 Apr 2021 14:06:26,838 TRACE repository.DB.CursaDBRepository 90 update - Exit
+08 Apr 2021 14:06:26,838 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 14:06:26,840 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:06:26,840 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:06:26,844 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 14:08:17,667 INFO  repository.DB.AngajatDBRepository 25 <init> - Initializing AngajatDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+08 Apr 2021 14:08:17,676 INFO  repository.DB.ParticipantDBRepository 26 <init> - Initializing ParticipantDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+08 Apr 2021 14:08:17,677 INFO  repository.DB.CursaDBRepository 26 <init> - Initializing CursaDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+08 Apr 2021 14:08:17,678 INFO  repository.DB.InscriereDBRepository 29 <init> - Initializing InscriereDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+08 Apr 2021 14:08:23,633 TRACE repository.DB.AngajatDBRepository 118 findAll - Enter
+08 Apr 2021 14:08:23,634 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:08:23,634 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+08 Apr 2021 14:08:23,635 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+08 Apr 2021 14:08:23,635 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+08 Apr 2021 14:08:23,636 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+08 Apr 2021 14:08:24,357 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:08:24,363 TRACE repository.DB.AngajatDBRepository 136 findAll - Exit
+08 Apr 2021 14:08:24,476 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 14:08:24,478 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:08:24,479 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+08 Apr 2021 14:08:24,479 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+08 Apr 2021 14:08:24,479 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+08 Apr 2021 14:08:24,480 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+08 Apr 2021 14:08:24,481 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:08:24,483 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 14:08:24,485 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 14:08:24,486 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:08:24,486 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:08:24,488 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 14:08:24,490 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 14:08:24,491 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:08:24,491 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+08 Apr 2021 14:08:24,492 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+08 Apr 2021 14:08:24,493 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+08 Apr 2021 14:08:24,494 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+08 Apr 2021 14:08:24,495 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:08:24,497 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 14:08:27,593 TRACE repository.DB.AngajatDBRepository 118 findAll - Enter
+08 Apr 2021 14:08:27,594 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:08:27,594 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:08:27,594 TRACE repository.DB.AngajatDBRepository 136 findAll - Exit
+08 Apr 2021 14:08:27,623 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 14:08:27,624 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:08:27,624 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:08:27,625 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 14:08:27,625 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 14:08:27,626 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:08:27,627 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:08:27,629 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 14:08:27,629 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 14:08:27,629 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:08:27,629 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:08:27,630 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 14:40:34,970 INFO  repository.DB.AngajatDBRepository 25 <init> - Initializing AngajatDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+08 Apr 2021 14:40:34,980 INFO  repository.DB.ParticipantDBRepository 26 <init> - Initializing ParticipantDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+08 Apr 2021 14:40:34,982 INFO  repository.DB.CursaDBRepository 26 <init> - Initializing CursaDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+08 Apr 2021 14:40:34,983 INFO  repository.DB.InscriereDBRepository 29 <init> - Initializing InscriereDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+08 Apr 2021 14:40:42,275 TRACE repository.DB.AngajatDBRepository 118 findAll - Enter
+08 Apr 2021 14:40:42,276 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:40:42,276 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+08 Apr 2021 14:40:42,276 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+08 Apr 2021 14:40:42,276 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+08 Apr 2021 14:40:42,277 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+08 Apr 2021 14:40:42,880 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:40:42,884 TRACE repository.DB.AngajatDBRepository 136 findAll - Exit
+08 Apr 2021 14:40:42,959 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 14:40:42,960 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:40:42,961 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+08 Apr 2021 14:40:42,961 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+08 Apr 2021 14:40:42,961 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+08 Apr 2021 14:40:42,961 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+08 Apr 2021 14:40:42,964 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:40:42,966 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 14:40:42,969 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 14:40:42,969 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:40:42,969 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:40:42,970 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 14:40:42,970 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 14:40:42,970 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:40:42,970 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+08 Apr 2021 14:40:42,971 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+08 Apr 2021 14:40:42,971 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+08 Apr 2021 14:40:42,971 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+08 Apr 2021 14:40:42,972 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:40:42,974 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 14:41:39,262 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 14:41:39,264 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:41:39,264 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:41:39,265 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 14:41:39,265 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 14:41:39,265 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:41:39,265 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:41:39,266 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 14:41:39,267 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 14:41:39,268 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:41:39,268 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:41:39,268 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+08 Apr 2021 14:41:39,268 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+08 Apr 2021 14:41:39,269 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:41:39,269 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:41:39,269 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
+08 Apr 2021 14:41:39,270 TRACE repository.DB.InscriereDBRepository 40 save - Enter saving inscrieremodel.Inscriere@44420e22
+08 Apr 2021 14:41:39,270 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:41:39,271 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+08 Apr 2021 14:41:39,271 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+08 Apr 2021 14:41:39,271 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+08 Apr 2021 14:41:39,271 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+08 Apr 2021 14:41:39,273 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:41:39,287 TRACE repository.DB.InscriereDBRepository 48 save - Saved 1 instances
+08 Apr 2021 14:41:39,287 TRACE repository.DB.InscriereDBRepository 53 save - Exit
+08 Apr 2021 14:41:39,288 TRACE repository.DB.CursaDBRepository 78 update - Enter updating cursa model.Cursa@3e71166f 
+08 Apr 2021 14:41:39,288 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:41:39,288 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:41:39,308 TRACE repository.DB.CursaDBRepository 84 update - Updated 1 instances
+08 Apr 2021 14:41:39,308 TRACE repository.DB.CursaDBRepository 90 update - Exit
+08 Apr 2021 14:41:39,309 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+08 Apr 2021 14:41:39,309 TRACE repository.JdbcUtils 42 getConnection - Enter
+08 Apr 2021 14:41:39,309 TRACE repository.JdbcUtils 51 getConnection - Exit
+08 Apr 2021 14:41:39,310 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+15 Apr 2021 11:08:53,885 INFO  repository.DB.AngajatDBRepository 25 <init> - Initializing AngajatDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+15 Apr 2021 11:08:53,909 INFO  repository.DB.ParticipantDBRepository 26 <init> - Initializing ParticipantDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+15 Apr 2021 11:08:53,922 INFO  repository.DB.CursaDBRepository 26 <init> - Initializing CursaDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+15 Apr 2021 11:08:53,935 INFO  repository.DB.InscriereDBRepository 29 <init> - Initializing InscriereDBRepository with properties: {jdbc.user=test, jdbc.url=jdbc:sqlite:D:\MppProiect\MppJava\curse.db, jdbc.pass=test} 
+15 Apr 2021 11:08:58,017 TRACE repository.DB.AngajatDBRepository 118 findAll - Enter
+15 Apr 2021 11:08:58,018 TRACE repository.JdbcUtils 42 getConnection - Enter
+15 Apr 2021 11:08:58,018 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+15 Apr 2021 11:08:58,019 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+15 Apr 2021 11:08:58,019 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+15 Apr 2021 11:08:58,020 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+15 Apr 2021 11:08:59,627 TRACE repository.JdbcUtils 51 getConnection - Exit
+15 Apr 2021 11:08:59,630 TRACE repository.DB.AngajatDBRepository 136 findAll - Exit
+15 Apr 2021 11:08:59,729 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+15 Apr 2021 11:08:59,730 TRACE repository.JdbcUtils 42 getConnection - Enter
+15 Apr 2021 11:08:59,730 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+15 Apr 2021 11:08:59,730 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+15 Apr 2021 11:08:59,730 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+15 Apr 2021 11:08:59,730 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+15 Apr 2021 11:08:59,733 TRACE repository.JdbcUtils 51 getConnection - Exit
+15 Apr 2021 11:08:59,745 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+15 Apr 2021 11:08:59,763 TRACE repository.DB.CursaDBRepository 122 findAll - Enter
+15 Apr 2021 11:08:59,764 TRACE repository.JdbcUtils 42 getConnection - Enter
+15 Apr 2021 11:08:59,764 TRACE repository.JdbcUtils 51 getConnection - Exit
+15 Apr 2021 11:08:59,766 TRACE repository.DB.CursaDBRepository 140 findAll - Exit
+15 Apr 2021 11:08:59,766 TRACE repository.DB.ParticipantDBRepository 126 findAll - Enter
+15 Apr 2021 11:08:59,767 TRACE repository.JdbcUtils 42 getConnection - Enter
+15 Apr 2021 11:08:59,767 TRACE repository.JdbcUtils 21 getNewConnection - Enter
+15 Apr 2021 11:08:59,768 INFO  repository.JdbcUtils 25 getNewConnection - trying to connect to database jdbc:sqlite:D:\MppProiect\MppJava\curse.db
+15 Apr 2021 11:08:59,768 INFO  repository.JdbcUtils 26 getNewConnection - user: test
+15 Apr 2021 11:08:59,768 INFO  repository.JdbcUtils 27 getNewConnection - pass: test
+15 Apr 2021 11:08:59,770 TRACE repository.JdbcUtils 51 getConnection - Exit
+15 Apr 2021 11:08:59,782 TRACE repository.DB.ParticipantDBRepository 145 findAll - Exit
